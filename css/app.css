@@ -1,0 +1,17 @@
+html {
+    background-color: #fff;
+    color: #000;
+}
+
+
+.negative_zindex {
+   z-index: -3;
+}
+
+.positive_zindex {
+   z-index: 0;
+}
+
+.display-none {
+	display:none;
+}
